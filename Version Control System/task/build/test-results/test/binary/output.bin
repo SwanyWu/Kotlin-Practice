@@ -1,0 +1,87 @@
+[1;31m
+Start test 1[0m
+The username is Max.
+[1;31m
+Start test 2[0m
+The file 'abc.txt' is tracked.
+[1;31m
+Start test 3[0m
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+These are SVCS commands:
+#config     Get and set a username.
+$add        Add a file to the index.
+log        Show commit logs.
+commit     Save changes.
+checkout   Restore a file.
+[1;31m
+Start test 4[0m
+Please, tell me who you are.
+The username is Max.
+The username is Max.
+The username is John.
+The username is John.
+[1;31m
+Start test 5[0m
+Add a file to the index.
+#The file 'file105.txt' is tracked.
+Tracked files:
+file105.txt
+"The file 'file29.txt' is tracked.
+Tracked files:
+file105.txt
+file29.txt
+Can't find 'file82.txt'.
+[1;31m
+Start test 6[0m
+The username is Marie139.
+&The file 'first_file.txt' is tracked.
+'The file 'second_file.txt' is tracked.
+Changes are committed.
+[1;31m
+Start test 7[0m
+The username is Sofie445.
+&The file 'first_file.txt' is tracked.
+'The file 'second_file.txt' is tracked.
+No commits yet.
+Message was not passed.
+Changes are committed.
+Hcommit 26854a80c6a6c275052043c2a8703f1a45b353c9bd4d89ae840075f031baaa4a
+Author: Sofie445
+Test message
+
+Nothing to commit.
+Changes are committed.
+Hcommit 80e8172be9a649cf933509336d8a6db917db77c3a6ba9f72cfdd2cc1a1f982a1
+Author: Sofie445
+Test message3
+
+Hcommit 26854a80c6a6c275052043c2a8703f1a45b353c9bd4d89ae840075f031baaa4a
+Author: Sofie445
+Test message
+
+[1;31m
+Start test 8[0m
+The username is Sofie680.
+&The file 'first_file.txt' is tracked.
+'The file 'second_file.txt' is tracked.
+Changes are committed.
+Changes are committed.
+Commit id was not passed.
+Commit does not exist.
+Hcommit 8b44f1cbff30d970d815619bf59b8a61d3a2e54e92df7f3e31f599f025f6c474
+Author: Sofie680
+Second commit
+
+Hcommit e79b7bf3e98567b5bc9e215c9d818a46d72f3058c0ac1df86cf672a29ab0582a
+Author: Sofie680
+First commit
+
+USwitched to commit e79b7bf3e98567b5bc9e215c9d818a46d72f3058c0ac1df86cf672a29ab0582a.
+[1;31m
+Start test 9[0m
+%'wrongArg184' is not a SVCS command.
